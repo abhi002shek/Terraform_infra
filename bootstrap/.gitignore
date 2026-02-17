@@ -1,0 +1,7 @@
+# Terraform state will be stored locally for bootstrap
+# This is intentional - bootstrap creates the remote backend itself
+
+terraform.tfstate
+terraform.tfstate.backup
+.terraform/
+.terraform.lock.hcl
