@@ -227,25 +227,6 @@ backend_max_size         = 6
 backend_desired_capacity = 2
 ```
 
-## 💵 Cost Estimation
-
-### Development Environment
-| Resource | Quantity | Monthly Cost |
-|----------|----------|--------------|
-| EC2 (t3.micro) | 4 | ~$30 |
-| RDS (db.t3.micro) | 1 | ~$15 |
-| NAT Gateway | 1 | ~$32 |
-| ALB | 2 | ~$32 |
-| **Total** | | **~$110/month** |
-
-### Production Environment
-| Resource | Quantity | Monthly Cost |
-|----------|----------|--------------|
-| EC2 (t3.small) | 6 | ~$90 |
-| RDS (db.t3.small, Multi-AZ) | 1 | ~$60 |
-| NAT Gateway | 2 | ~$64 |
-| ALB | 2 | ~$32 |
-| **Total** | | **~$250/month** |
 
 ## 🔐 Security Best Practices
 
@@ -413,7 +394,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Abhishek**
 - GitHub: [@abhi002shek](https://github.com/abhi002shek)
-- LinkedIn: [Connect with me](https://www.linkedin.com/in/abhishek)
+- LinkedIn: [Connect with me](https://www.linkedin.com/in/abhishek-singh-2b96961a0/)
 
 ## ⭐ Show Your Support
 
